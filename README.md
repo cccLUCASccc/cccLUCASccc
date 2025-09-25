@@ -1,8 +1,8 @@
 ![Hey their](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBtM3l5Z2lvZ25qZ3M5dnY3ZzIxbjJzanNwenU2cXEyaXZrbjd1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif)
 ### About me
-I am a belgiun web dev with big interests in game dev. Actually I work in a legal office and dev their platform with an another dev. 
+I am a belgiun web dev with big interests in game dev. Actually I work in a legal office at the Power platform dev and IT where I dev their platform with an another dev. 
 
-You can find my pro GitHub account [here](https://www.github.com/LucasGL-png) 
+You can find my Golegal GitHub account [here](https://www.github.com/LucasGL-png) 
 
 Currently I work on my free time on a 2D STR game. I hope it will be available at the end 2026.
 
