@@ -27,6 +27,6 @@ If you have any question about an issue on Godot I'll be happy to disccuss about
 - My social medias:
     - [Linkedin](https://www.linkedin.com/in/cloeslucas/)
     - [Discord](https://discord.com/channels/cloeslucas)
-    - 
-##### If I don't see ya again:
+      
+## If I don't see ya again:
 ![goodbye](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHAzeTVneHJ6cGcxeTlnd2R5MGYyYzg0bWFxejFldmJ6N3UyaHdiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif)
