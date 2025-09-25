@@ -22,22 +22,11 @@ Here you can visit the studio's web site : [FiveDogsProduction](https://www.five
 If you have any question about an issue on Godot I'll be happy to disccuss about it with you
 
 ### How to reache me:
-![Contact me](https://tenor.com/fr/view/spongebob-waiting-mail-gif-9967258246983803629)
+![Contact me](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw0eHltcWo4a2Y2bmo1NWljdXYybGZkZ3lzaDUwYjRjM3R4NG1kMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UwrdbvJz1CNck/giphy.gif)
 - Email : lucascloes@gmail.com
 - My social medias:
     - [Linkedin](https://www.linkedin.com/in/cloeslucas/)
     - [Discord](https://discord.com/channels/cloeslucas)
-<!--
-**cccLUCASccc/cccLUCASccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - 
+##### If I don't see ya again:
+![goodbye](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHAzeTVneHJ6cGcxeTlnd2R5MGYyYzg0bWFxejFldmJ6N3UyaHdiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif)
