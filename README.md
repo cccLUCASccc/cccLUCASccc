@@ -4,7 +4,7 @@
 I’m a **Belgian web developer** with a big interest in **game development**.  
 Currently, I work in a **legal office** as a Power Platform & IT developer, where I help maintain and improve their internal systems.  
 
-You can also find my professional GitHub account here: [LucasGL-png](https://www.github.com/LucasGL-png).
+You can also find my Golegal GitHub account here: [LucasGL-png](https://www.github.com/LucasGL-png).
 
 In my free time, I’m working on a **2D strategy game** planned for release in **2026**.  
 
