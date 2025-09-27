@@ -47,9 +47,10 @@ The goal is to create fun projects with other devs and artists, where **everyone
 ## 📬 How to Reach Me
 ![Contact me](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw0eHltcWo4a2Y2bmo1NWljdXYybGZkZ3lzaDUwYjRjM3R4NG1kMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UwrdbvJz1CNck/giphy.gif)
 
-- 📧 Email: **lucascloes@gmail.com**
+- 📧 Email: **lucascloes@gmail.com**  
 - 🌐 Socials:  
-  [LinkedIn](https://www.linkedin.com/in/cloeslucas/)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cloeslucas/)  
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/cloeslucas)
 
 ---
 
