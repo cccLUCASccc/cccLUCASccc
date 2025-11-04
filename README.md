@@ -40,12 +40,12 @@ The goal is to create fun projects with other devs and artists, where **everyone
 | Project | Tech | Status | Link |
 |---------|------|--------|------|
 | 2D STR Game | Godot | WIP (ETA 2026) | 🚧 Coming soon |
-| FiveDogsProduction | Web & Game Dev | Active | [Website](https://www.fivedogsproduction.be) |
 
 ### 🌐 Web Dev
 | Project | Tech | Status | Link |
 |---------|------|--------|------|
 | Daisybrocante | Odoo (Python, XML and Js) | Active | [Website](https://www.daisybrocante.com/) |
+| FiveDogsProduction | NextJS, Supabase and GSAP | Active | [Website](https://www.fivedogsproduction.be) |
 
 
 ---
