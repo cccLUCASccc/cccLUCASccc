@@ -39,6 +39,7 @@ The goal is to create fun projects with other devs and artists, where **everyone
 ### 🎮 Game Dev
 | Project | Tech | Status | Link |
 |---------|------|--------|------|
+| Phase | Unity (C#) | Active | [Game](https://lucascl.itch.io/phase/) |
 | 2D STR Game | Godot | WIP (ETA 2026) | 🚧 Coming soon |
 
 ### 🌐 Web Dev
