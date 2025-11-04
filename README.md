@@ -44,7 +44,7 @@ The goal is to create fun projects with other devs and artists, where **everyone
 ### 🌐 Web Dev
 | Project | Tech | Status | Link |
 |---------|------|--------|------|
-| Daisybrocante | Odoo (Python, XML and Js) | Active | [Website](https://www.daisybrocante.com/) |
+| Daisybrocante | Odoo (Python, XML, SCSS and JS) | Active | [Website](https://www.daisybrocante.com/) |
 | FiveDogsProduction | NextJS, Supabase and GSAP | Active | [Website](https://www.fivedogsproduction.be) |
 
 
