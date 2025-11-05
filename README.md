@@ -60,5 +60,5 @@ The goal is to create fun projects with other devs and artists, where **everyone
 
 ---
 
-## 👋 In case I don't see ya:
+## 👋 In case I don't see ya...:
 ![goodbye](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHAzeTVneHJ6cGcxeTlnd2R5MGYyYzg0bWFxejFldmJ6N3UyaHdiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dRvEZLV0ORAmHT1L5u/giphy.gif)
