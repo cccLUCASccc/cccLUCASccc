@@ -8,8 +8,7 @@ You can also find my Golegal GitHub account here: [LucasGL-png](https://www.gith
 
 In my free time, I’m working on a **2D strategy game** planned for release in **2026**.  
 
-This year, I also founded a small game dev studio: **[FiveDogsProduction](https://www.fivedogsproduction.be)**.  
-The goal is to create fun projects with other devs and artists, where **everyone is equal**.  
+This year, I also founded a web dev agency: **[FiveDogsProduction](https://www.fivedogsproduction.be)**.  
 
 ---
 
