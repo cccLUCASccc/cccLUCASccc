@@ -2,7 +2,7 @@
 
 # 👋 About Me
 I’m a **Belgian web developer** with a big interest in **game development**.  
-Currently, I work in a **legal office** as a Power Platform & IT developer, where I help maintain and improve their internal systems.  
+Currently, I work in a **legal office** as a Power Platform & IT developer, where I help to maintain their internal systems and create and improve new commercial technologies.  
 
 You can also find my Golegal GitHub account here: [LucasGL-png](https://www.github.com/LucasGL-png).
 
