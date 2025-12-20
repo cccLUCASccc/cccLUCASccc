@@ -39,7 +39,7 @@ This year, I also founded a web dev agency: **[FiveDogsProduction](https://www.f
 |---------|------|--------|------|
 | Course poursuite à DaisyTown. | Unity (C#), Android Studio | 🔴​ Closed | 🐳 New Version Coming (Late 2026) |
 | Phase | Unity (C#) | 🟢 Active | [Game](https://lucascl.itch.io/phase/) |
-| 2D STR Game | Godot (GDScript) | 🟠 WIP (ETA 2026) | 🚧 Coming soon |
+| TiniCastle | Godot (GDScript) | 🟠 WIP (ETA 2026) | 🚧 Coming soon |
 
 ### 🌐 Web Dev
 | Project | Tech | Status | Link |
