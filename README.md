@@ -35,6 +35,8 @@ This year, I also founded a web dev agency: **[FiveDogsProduction](https://www.f
 
 ## 🚧 Projects
 
+![projects](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnBhNGc5MXhldTl5a2lmNmVkN21taGJnNmpwc3pucWloMTVvOHVibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7srpeY4TZMrO8/giphy.gif)
+
 ### 🎮 Game Dev
 | Project | Tech | Status | Link |
 |---------|------|--------|------|
