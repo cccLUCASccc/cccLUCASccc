@@ -1,6 +1,7 @@
-![Hey there](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHBtM3l5Z2lvZ25qZ3M5dnY3ZzIxbjJzanNwenU2cXEyaXZrbjd1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S2IfEQqgWc0AH4r6Al/giphy.gif)
+# 👋 Hello there
 
-# 👋 About Me
+![Hey there](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG91dWp1amZyeHBiZHhhMnFzbHAxZjhzOGt4eTJwZ3JkcjhmbGE2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hFCF4Tv5RM7Li/giphy.gif)
+
 I’m a **Belgian web developer** with a big interest in **game development**.  
 Currently, I work in a **legal office** as a Power Platform & IT developer, where I help to maintain their internal systems and create and improve new commercial technologies.  
 
