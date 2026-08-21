@@ -3,33 +3,29 @@
 ![Hey there](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG91dWp1amZyeHBiZHhhMnFzbHAxZjhzOGt4eTJwZ3JkcjhmbGE2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hFCF4Tv5RM7Li/giphy.gif)
 
 I’m a **Belgian web developer** with a big interest in **game development**.  
-Currently, I work in a **legal office** as a Power Platform & IT developer, where I help to maintain their internal systems and create and improve new commercial technologies.  
+Currently, I work in a **legal office** as a senior IT developer, where I help to maintain their internal systems and create and improve new commercial technologies.  
 
 You can also find my Golegal GitHub account here: [LucasGL-png](https://www.github.com/LucasGL-png).
-
-In my free time, I’m working on a **2D strategy game** planned for release in **2026**.  
-
-This year, I also founded a web dev agency: **[FiveDogsProduction](https://www.fivedogsproduction.be)**.  
 
 ---
 
 ## 🕹️ Favorite Technologies
 
 ### 🎮 Game Dev
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
-### 💻 Web Dev
+### 💻 Web Dev, Backend & Cloud
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Microsoft Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-> If you ever have an issue with **Godot**, I’ll be happy to discuss it with you!
+> If you ever have an issue with **Unreal Engine** or **Godot**, I’ll be happy to discuss it with you!
 
 ---
 
@@ -40,15 +36,13 @@ This year, I also founded a web dev agency: **[FiveDogsProduction](https://www.f
 ### 🎮 Game Dev
 | Project | Tech | Status | Link |
 |---------|------|--------|------|
-| Course poursuite à DaisyTown. | Unity (C#), Android Studio | 🔴​ Closed | 🐳 New Version Coming (Late 2026) |
+| Course poursuite à DaisyTown. | Unity (C#), Android Studio | 🔴 Closed | 🐳 New Version Coming (Late 2026) |
 | Phase | Unity (C#) | 🟢 Active | [Game](https://lucascl.itch.io/phase/) |
-| TinyCastle | Godot (GDScript) | 🟠 WIP (ETA 2026) | 🚧 Coming soon |
 
 ### 🌐 Web Dev
 | Project | Tech | Status | Link |
 |---------|------|--------|------|
-| Daisybrocante | Odoo Community (Python, XML, SCSS and JS), Docker, VPS | 🟢 Active | [Website](https://www.daisybrocante.com/) |
-| FiveDogsProduction | NextJS, Supabase and GSAP | 🟢 Active | [Website](https://www.fivedogsproduction.be) |
+| Daisybrocante | Astro, Svelte, Railway, Cloudflare | 🟢 Active | [Website](https://www.daisybrocante.com/) |
 
 
 ---
